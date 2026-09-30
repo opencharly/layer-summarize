@@ -10,7 +10,7 @@ summarize:
             ~/.npm-global/lib/node_modules/@steipete/summarize, and
             `summarize --version` prints a version and exits cleanly.
         require:
-            - '@github.com/opencharly/layer-nodejs:v2026.239.1624'
+            - '@github.com/opencharly/layer-nodejs:v2026.272.0322'
         plan:
             - check: the summarize binary is installed into the npm global bin directory
               file:
