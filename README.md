@@ -50,7 +50,5 @@ The candy's `plan:` asserts both binaries, the unpacked scoped package, and that
 
 - Owning skill: `/charly-tools:summarize`
 - Dependency: `/charly-coder:nodejs`
-- Bundle: `/charly-openclaw:openclaw-full`
-- Speech-to-text companion: `/charly-tools:whisper`
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
